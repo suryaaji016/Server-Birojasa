@@ -1,0 +1,163 @@
+[
+  {
+    "category": "PERPANJANG",
+    "layanan": "STNK TAHUNAN",
+    "persyaratan": [
+      "STNK ASLI",
+      "KTP ASLI SESUAI STNK",
+      "FC BPKB"
+    ]
+  },
+  {
+    "category": "PERPANJANG",
+    "layanan": "STNK LIMA TAHUNAN",
+    "persyaratan": [
+      "STNK ASLI",
+      "KTP ASLI SESUAI STNK",
+      "FC BPKB",
+      "CEK FISIK KENDARAAN"
+    ]
+  },
+  {
+    "category": "PERPANJANG",
+    "layanan": "GANTI NOPOL",
+    "persyaratan": [
+      "STNK ASLI",
+      "KTP ASLI",
+      "BPKB ASLI",
+      "CEK FISIK KENDARAAN"
+    ]
+  },
+  {
+    "category": "BALIK NAMA",
+    "layanan": "SAMA WILAYAH",
+    "persyaratan": [
+      "STNK ASLI",
+      "BPKB ASLI",
+      "FC KTP PEMILIK BARU",
+      "MATERAI 10.000",
+      "CEK FISIK KENDARAAN"
+    ]
+  },
+  {
+    "category": "BALIK NAMA",
+    "layanan": "MUTASI ANTAR SAMSAT",
+    "persyaratan": [
+      "STNK ASLI",
+      "BPKB ASLI",
+      "FC KTP PEMILIK BARU",
+      "MATERAI 10.000",
+      "CEK FISIK KENDARAAN"
+    ]
+  },
+  {
+    "category": "BALIK NAMA",
+    "layanan": "MUTASI LUAR DAERAH",
+    "persyaratan": [
+      "STNK ASLI",
+      "BPKB ASLI",
+      "FC KTP PEMILIK BARU",
+      "MATERAI 10.000",
+      "CEK FISIK KENDARAAN HADIR DI SAMSAT TUJUAN SESUAI KTP PEMILIK BARU"
+    ]
+  },
+  {
+    "category": "PINDAH ALAMAT",
+    "layanan": "SAMA WILAYAH",
+    "persyaratan": [
+      "STNK ASLI",
+      "KTP ASLI ALAMAT BARU",
+      "BPKB ASLI",
+      "CEK FISIK KENDARAAN"
+    ]
+  },
+  {
+    "category": "PINDAH ALAMAT",
+    "layanan": "MUTASI ANTAR WILAYAH",
+    "persyaratan": [
+      "STNK ASLI",
+      "KTP ASLI ALAMAT BARU",
+      "BPKB ASLI",
+      "CEK FISIK KENDARAAN"
+    ]
+  },
+  {
+    "category": "PINDAH ALAMAT",
+    "layanan": "MUTASI LUAR DAERAH",
+    "persyaratan": [
+      "STNK ASLI",
+      "KTP ASLI ALAMAT BARU",
+      "BPKB ASLI",
+      "CEK FISIK KENDARAAN HADIR DI SAMSAT TUJUAN SESUAI KTP PEMILIK BARU"
+    ]
+  },
+  {
+    "category": "STNK HILANG",
+    "layanan": "",
+    "persyaratan": [
+      "BPKB ASLI / SUKET LEASING",
+      "KTP ASLI",
+      "CEK FISIK KENDARAAN",
+      "FOTO UNIT"
+    ]
+  },
+  {
+    "category": "REVISI STNK",
+    "layanan": "",
+    "persyaratan": [
+      "STNK ASLI",
+      "FC KTP / FC BPKB / FC FAKTUR (TERGANTUNG DATA YANG INGIN DI REVISI)"
+    ]
+  },
+  {
+    "category": "BPKB DUPLIKAT (BPKB HILANG)",
+    "layanan": "",
+    "persyaratan": [
+      "FC KTP A/N PEMILIK",
+      "FC STNK A/N PEMILIK",
+      "CEK FISIK KENDARAAN HADIR"
+    ]
+  },
+  {
+    "category": "REVISI BPKB",
+    "layanan": "",
+    "persyaratan": [
+      "BPKB ASLI",
+      "FC KTP / FC STNK / FC FAKTUR (TERGANTUNG DATA YANG INGIN DI REVISI)"
+    ]
+  },
+  {
+    "category": "SIM A",
+    "layanan": "BARU",
+    "persyaratan": [
+      "FC KTP 3 LEMBAR",
+      "FOTO HADIR"
+    ]
+  },
+  {
+    "category": "SIM A",
+    "layanan": "PERPANJANGAN",
+    "persyaratan": [
+      "FC KTP 3 LEMBAR",
+      "SIM ASLI",
+      "FOTO HADIR"
+    ]
+  },
+  {
+    "category": "SIM C",
+    "layanan": "BARU",
+    "persyaratan": [
+      "FC KTP 3 LEMBAR",
+      "FOTO HADIR"
+    ]
+  },
+  {
+    "category": "SIM C",
+    "layanan": "PERPANJANGAN",
+    "persyaratan": [
+      "FC KTP 3 LEMBAR",
+      "SIM ASLI",
+      "FOTO HADIR"
+    ]
+  }
+]
